@@ -1,6 +1,6 @@
 # Udemy-Cpp
 [![MasterHead](Udemy.gif)]()
-# Topics Coverd In Notes :-
+# Topics Coverd In Notes:-
 # 1. History Of C++ 
 # 2. Features of C++ 
 # 3. OOP'S 
