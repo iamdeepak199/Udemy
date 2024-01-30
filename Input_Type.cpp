@@ -2,18 +2,6 @@
 #include<cctype>
 #include<cstring>
 using namespace std;
-
-/*bool comparePassword(char Password[],char expectedPassword[]){
-    int i=0;
-    while(Password[i]!='\0'){
-        if(Password[i]!=expectedPassword[i]){
-           return false;
-        }
-        i++;
-}
-return true;
-
-}*/
 int main() {
      char word[100];
      cout << "Enter a String Which may br contains Symbol,Alphabets,Digits ect :" <<endl;
