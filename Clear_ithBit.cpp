@@ -2,14 +2,12 @@
 using namespace std;
 
 
-int BitManuplation(int n ,int i){
-    int mask = (1<<i);
-    return (mask & n) > 0 ? 1:0;
-}
 int ClearBit(int &n,int i){
-    int mask=~(1<<i);
-    n=n&mask;
+    int mask=(~0<<i);
+    n=n & mask;
 }
+
+
 int main() {
    
    int n,i;
