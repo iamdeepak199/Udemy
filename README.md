@@ -5,22 +5,22 @@
  2. Sum Of 1 To N        
  3. Sum Of N Number
  4. Prime or Not
-# 5. GCD 
-# 6. Pyramid 
+ 5. GCD ->
+ 6. Pyramid ->
  7. Sum Of Digit 
  8. Largest Number 
-# 9. Sum Of Multiple Input
+ 9. Sum Of Multiple Input ->
  10. Squre Of Number 
-# 11. Typecasting
+ 11. Typecasting ->
  12. Average Marks
  13. Find The Ceil Value
  14. Find The Floor value
-# 15. Electricity Bill Calculator 
+ 15. Electricity Bill Calculator  ->
  16. Calculator (Simple)
  17. Odd or Even 
  18. Cash Withdrawal
  19. Predict Grade
-# 20. Fixed Diposite Interest
+ 20. Fixed Diposite Interest ->
  21. Print Reverse Of A Number
  22. Prime Or Not ?
  23. Find Largest
@@ -42,7 +42,7 @@
  38. Decimal To Binary
  39. Find Area Of Given Shape
  40. Power Function
- 41. Multiply Two Number Without Using *
+ 41. Multiply Two Number Without Using * ->
  42. Trailing Zeroes In N
  43. Trailing Zeroes N!
 # Arrays:
@@ -93,8 +93,16 @@
  85. Shorest Path
  86. ABCD Pattern
 # Character Array/C-Style String 
- 87. 
-
+ 87. Largest String
+ 88. Password Checker
+ 89. Comparison String
+ 90. 2D Character Arrays
+ 91. Largest Character
+ 92. Largest Frequency Character
+ 93. IS Character Array Sorted
+ 94. Count Of Unique Character
+ 95. Rotate The Matrix
+# C++ String 
 
 
 
