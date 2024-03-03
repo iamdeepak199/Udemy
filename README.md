@@ -103,6 +103,66 @@
  94. Count Of Unique Character
  95. Rotate The Matrix
 # C++ String 
+ 96. Vaild Anagram
+ 97. Is string Palindrom
+ 98. Upper To Lower
+ 99. Largest Frequence
+ 100. All Alphabets Present Or Not ?
+ 101. Given String Can be Formed or Not
+ 102. Sum Of all elements below main diagonal
+ 103. Roman To Integer
+ 104. Number Of Words
+ 105. Logest Common Prefix
+ 106. Remove All Adjacent Duplicates
+ 107. Check For Subsequence
+# Dynamic Memory
+ 108. Dynamic Memory 1D Array
+ 109. Dynamic Memory 2D Array
+# Vector 
+ 110. 2D vectors
+ 111. Sort A Vector Of integer
+ 112. Mereg Two Vector String
+ 113. Sort A Vector Of String
+ 114. Maximum Element
+ 115. Set Metrix Zero
+# Bit-Masking Techniques : 
+ 116. Check Odd/Even
+ 117. Get ith Bit
+ 118. Set ith Bit
+ 119. Clear ith Bit
+ 120. Update ith Bit
+ 121. Clear Last bit
+ 122. Clear Bit in Range
+ 123. Replace Bit
+ 124. Power Of 2
+ 125. Counting Set
+ 126. Fast Exponentition
+ 127. Decimal to Binary
+ 128. Count Of Set Bit
+ 129. Power Of Set bit
+ 130. Divide An integer without Division Operator
+ 131. Find Square Of number without Multiply
+ 132. Find a Number which is singly Present
+# Recursion :
+ 133. Factorial
+ 134. Fibonaci
+ 135. Sort an Array
+ 136. Incressing & Decreasing Number
+ 137. Sum Of Digits
+ 138. Fibonaci Series 2
+ 139. Binomial Coefficient
+ 140. Tiling Problem
+ 141. Pallindrom
+ 142. First Occurence
+ 143. Last Occurence
+ 144. Frequency Of Elements
+ 145. Power Function
+ 146. Count  Binary Strings
+# OOP'S  
+ 147. Classes
+ 148. Getter & Setter Function
+ 149. Constructors
+ 150. Constructors Types 1.Copy 2.Parameterized 3.Default
 
 
 
