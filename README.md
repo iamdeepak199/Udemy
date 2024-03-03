@@ -49,7 +49,7 @@
  44. Find Missing Number
  45. Largest & Smallest Number
  46. Median Of Array
-# 47. Kth Smallest In The Array
+ 47. Kth Smallest In The Array
  48. Move All Negative Element To One Side Of the Array
  49. Find Intersection Of Two Array
  50. Find The Frequency Of The Given Element
